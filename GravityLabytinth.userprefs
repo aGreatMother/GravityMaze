@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Dommy.cs">
+    <Files>
+      <File FileName="Assets\Script\Dommy.cs" Line="39" Column="80" />
+      <File FileName="Assets\Script\UIFounctions.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Trandy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameControlManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ShipMoving.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RandomAlphaAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MovingChild.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MovingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CharacterHitFloorControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AIbasic.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CharacterDownDec.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Destination.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UseLineRenderer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CharacterRotateControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DropingDect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\HittingDect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EnemyAttackRange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Octopy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\SenceButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\SoundButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\UnityProjects\GravityLabytinth\Assets\Script\Dommy.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
